@@ -120,7 +120,7 @@
 1. **Degree 3 with Regularization**: Stable MSE values across all datasets, suggesting good generalization.
 1. **Degree 2 without Regularization**: Significantly lower MSE, showing effective performance without regularization.
 
-## E_RMS Table
+## $E_RMS$ Table
 
 | Dataset | Degree | λ | Regularization | Training $E_{RMS}$ | Validation $E_{RMS}$ | Test $E_{RMS}$ |
 | :------ | -----: | -----: | :------------- | -------------: | ---------------: | ---------: |
